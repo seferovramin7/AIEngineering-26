@@ -1,0 +1,6 @@
+langchain
+langchain-openai
+langchain-ollama
+langchain-chroma
+langchain-huggingface
+sentence-transformers

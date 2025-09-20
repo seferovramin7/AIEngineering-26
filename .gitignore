@@ -1,0 +1,17 @@
+# Python venv & cache
+.venv/
+.venvwin/
+__pycache__/
+*.pyc
+
+# Chroma / vectorstore / cache
+chroma/
+.chroma/
+*.sqlite
+
+# Editor/OS
+.vscode/
+.DS_Store
+
+# Data lokal
+book.txt
